@@ -18,7 +18,7 @@
 
 - 💬 Ask me about my experience with Python, Dart, Flutter, Data Structures and Algorithms or anything related to Core programming and Flutter development.
 
-- 📫 How to reach me: ...
+
 
 ### 💻 &nbsp;Tech Stack <!-- 🛠 -->
 
